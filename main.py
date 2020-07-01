@@ -1,4 +1,3 @@
-
 import requests as req
 from bs4 import BeautifulSoup
 import sys
@@ -13,14 +12,17 @@ if len(sys.argv) > 1:
 else:
     word = pc.paste()
 
-# get HTML for definition, word family, and language level
+
+# use the cambridge dictionary to get defnition, family, gender, and phonetics
 res = req.get('https://dictionary.cambridge.org/dictionary/french-english/'
               + word)
 soup = BeautifulSoup(res.text, 'lxml')
 
+# use linguee to get some example sentences
 res2 = req.get('https://www.linguee.com/english-french/search?source=auto&query='
                + word)
 soup2 = BeautifulSoup(res2.text, 'lxml')
+
 
 # extract definition, family, examples, synonyms, language level, and audio
 try:
@@ -30,17 +32,18 @@ try:
     family = str.strip(soup.find('span', class_='pos dpos').text)
     # gender
     gender = str.strip(soup.find('span', class_='gc dgc').text)
-    #gender = str.strip(soup.find('div', class_='dpos-h di-head normal-entry').text)
     # phonetics
     phonetics = str.strip(soup.find('span', class_='ipa dipa').text)
     # example sentence
     examples = str.strip(soup2.find('div', class_='example_lines').text)
     # print type and definition
-    print(translation,
-          family,
-          gender,
-          phonetics,
-          examples)
+    #print(translation,
+          #family,
+          #gender,
+          #phonetics)
+    # print examples but with the target word hidden
+    #print(examples.replace(word, "..."))
+    print(examples.split("."))
 
 # handle exception
 except Exception as e:
