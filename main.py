@@ -12,7 +12,6 @@ if len(sys.argv) > 1:
 else:
     word = pc.paste()
 
-
 # use the cambridge dictionary to get defnition, family, gender, and phonetics
 res = req.get('https://dictionary.cambridge.org/dictionary/french-english/'
               + word)
@@ -22,7 +21,6 @@ soup = BeautifulSoup(res.text, 'lxml')
 res2 = req.get('https://www.linguee.com/english-french/search?source=auto&query='
                + word)
 soup2 = BeautifulSoup(res2.text, 'lxml')
-
 
 # extract definition, family, examples, synonyms, language level, and audio
 try:
@@ -36,16 +34,17 @@ try:
     phonetics = str.strip(soup.find('span', class_='ipa dipa').text)
     # example sentence
     examples = str.strip(soup2.find('div', class_='example_lines').text)
-    # print type and definition
-    #print(translation,
-          #family,
-          #gender,
-          #phonetics)
-    # print examples but with the target word hidden
-    #print(examples.replace(word, "..."))
-    print(examples.split("."))
+    # Modify examples but with the target word hidden
+    examples = examples.replace(word, "...")
+    examples = examples.replace(u'\xa0', u' ')
+    examples = examples.split(". ")
+    print(examples)
+
 
 # handle exception
 except Exception as e:
     print(e)
     #print("Sorry, I couldn't find that word")
+
+#WordProperties = [translation, family, gender, phonetics, examples]
+#print(WordProperties)
