@@ -1,8 +1,5 @@
 import requests as req
 from bs4 import BeautifulSoup
-import sys
-import pyperclip as pc
-import csv
 import pandas as pd
 import time
 
@@ -11,7 +8,7 @@ import time
 df = pd.read_csv("words.csv", header=0)
 
 # loop through dataframe and add info
-for i in range(412):
+for i in range(100):
     try:
         # use the cambridge dictionary to get defnition, family, gender, etc.
         res = req.get('https://dictionary.cambridge.org/dictionary/french-english/'

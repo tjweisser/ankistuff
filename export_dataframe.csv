@@ -99,315 +99,324 @@ compter,count,to count,verb,kɔ̃te,transitive,compter les points,to keep score
 occuper,to occupy,to occupy,verb,ɔkype,transitive,Il occupe la salle de bains.,He’s in the bathroom.
 expliquer,explain,to explain,verb,ɛksplike,transitive,expliquer qqch à qqn,to explain sth to sb
 frapper,hit,to hit,verb,fʀape,transitive,Il l’a frappé plusieurs fois.,He hit him several times.
-travailler,to work,to work,verb,tʀavaje,intransitive,Elle travaille dans un musée.,She works in a museum.
-obtenir,get,to obtain,verb,ɔptəniʀ,transitive,obtenir un poste,to get a job
-rentrer,return,to go back in,verb,ʀɑ̃tʀe,intransitive,rentrer dans la maison,to go back into the house
-pleurer,cry,to cry,verb,plœʀe,intransitive,pleurer de rire,to cry with laughter
-répéter,repeat,to repeat,verb,ʀepete,transitive,répéter une question,to repeat a question
-payer,pay,to pay,verb,peje,transitive,payer qqn,to pay sb
-apporter,to bring,to bring,verb,apɔʀte,transitive,Il a apporté une bouteille de vin.,He brought a bottle of wine.
-exister,to exist,to exist,verb,ɛɡziste,intransitive,des espèces qui n’existent plus aujourd’hui,species that no longer exist
-boire,to drink,to drink,verb,bwaʀ,transitive,boire du thé,to drink tea
-sourire,smile,to smile,verb,suʀiʀ,intransitive,sourire à qqn,to smile at sb
-coucher,sleep,to put to bed,verb,kuʃe,transitive,coucher un enfant,to put a child to bed
-causer,cause,to cause,verb,koze,transitive,causer des ennuis à qqn,to cause trouble for sb
-raconter,tell,to tell,verb,ʀakɔ̃te,transitive,raconter une histoire,to tell a story
-serrer,tighten,to hold tight,verb,seʀe,transitive,serrer le bras de qqn,to clutch sb’s arm
-songer,wonder,to think,verb,sɔ̃ʒe,intransitive,songer aux conséquences d’un acte,to think about the consequences of an act
-manquer,to lack,to be lacking,verb,mɑ̃ke,intransitive,L’eau a manqué.,Water was in short supply.
-nommer,appoint,to name,verb,nɔme,transitive,Comment ont-ils nommé leur fille ?,What did they name their daughter?
-conduire,drive,to drive,verb,kɔ̃dɥiʀ,transitive,conduire une voiture,to drive a car
-saisir,grab,to seize,verb,seziʀ,transitive,saisir un bâton,to grab a stick
-demeurer,remain,to live,verb,dəmœʀe,intransitive,Il a demeuré à Lyon.,He lived in Lyon.
-remettre,reset,to put back,verb,ʀəmɛtʀ,transitive,remettre qqch au réfrigérateur,to put sth back in the refrigerator
-disparaître,vanish,to disappear,verb,dispaʀɛtʀ,intransitive,La douleur a disparu.,The pain has disappeared.
-battre,beat,to beat,verb,batʀ,transitive,battre un camarade de classe,to beat a schoolmate
-toucher,to touch,to touch,verb,tuʃe,transitive,toucher un tissu,to touch a fabric
-apparaître,appear,to appear,verb,apaʀɛtʀ,intransitive,Elle est apparue à la fenêtre.,She appeared at the window.
-souffrir,suffer,to suffer,verb,sufʀiʀ,intransitive,Il souffre beaucoup.,He’s suffering a lot.
-fermer,to close,to close,verb,fɛʀme,transitive,Il faut fermer les fenêtres.,We must shut the windows.
-accepter,accept,fall in with,phrasal verb,,,,
-tendre,tender,tender,adjective,tɑ̃dʀ,transitive,être tendre avec qqn,to be tender with sb
-naître,be born,to be born,verb,nɛtʀ,intransitive,Il est né au mois de février.,He was born in February.
-sauver,to save,to save,verb,sove,transitive,sauver qqn de la noyade,to save sb from drowning
-avancer,moving forward,to move forward,verb,avɑ̃se,transitive,avancer la main vers qqch,to reach towards sth
-traverser,to cross,to go through,verb,tʀavɛʀse,transitive,L’eau a traversé le plancher.,The water has soaked through the floor.
-souvenir,memory,memory,noun,suvəniʀ,masculine,garder un bon / mauvais souvenir de qqch,to have good/bad memories of sth
-couvrir,cover,to cover,verb,kuvʀiʀ,transitive,couvrir une voiture d’une bâche,to cover a car with a tarp
-gagner,to win,to earn,verb,ɡaɲe,transitive,gagner beaucoup d’argent,to earn a lot of money
-former,form,to form,verb,fɔʀme,transitive,former une nouvelle équipe,to form a new team
-plaire,please,to please,verb,plɛʀ,transitive,Elle lui plaît beaucoup.,He likes her a lot.
-embrasser,to kiss,to kiss,verb,ɑ̃bʀase,transitive,embrasser qqn sur la bouche,to kiss sb on the mouth
-oser,dare,to dare,verb,oze,transitive,Il a osé l’appeler.,He dared to call her.
-empêcher,avoid,to prevent,verb,ɑ̃peʃe,transitive,empêcher le pire,to prevent the worst from happening
-refuser,refuse,to refuse,verb,ʀəfyze,transitive,refuser une invitation,to refuse an invitation
-décider,decide,to decide,verb,deside,transitive,Il a décidé qu’il partirait demain.,He’s decided to leave tomorrow.
-produire,produce,to produce,verb,pʀɔdɥiʀ,transitive,produire une vague de protestation,to cause a wave of protests
-charger,load,to load,verb,ʃaʀʒe,transitive,charger une voiture,to load a car
-mêler,mix,to mix,verb,mele,transitive,mêler des odeurs,to mix smells
-espérer,hope,to hope,verb,ɛspeʀe,transitive,Elle espère gagner.,She hopes to win.
-cesser,to cease,to stop,verb,sese,intransitive,Le bruit a cessé.,The noise has stopped.
+travailler,to work,,,,,,
+obtenir,get,,,,,,
+rentrer,return,,,,,,
+pleurer,cry,,,,,,
+répéter,repeat,,,,,,
+payer,pay,,,,,,
+apporter,to bring,,,,,,
+exister,to exist,,,,,,
+boire,to drink,,,,,,
+sourire,smile,,,,,,
+coucher,sleep,,,,,,
+causer,cause,,,,,,
+raconter,tell,,,,,,
+serrer,tighten,,,,,,
+songer,wonder,,,,,,
+manquer,to lack,,,,,,
+nommer,appoint,,,,,,
+conduire,drive,,,,,,
+saisir,grab,,,,,,
+demeurer,remain,,,,,,
+remettre,reset,,,,,,
+disparaître,vanish,,,,,,
+battre,beat,,,,,,
+toucher,to touch,,,,,,
+apparaître,appear,,,,,,
+souffrir,suffer,,,,,,
+fermer,to close,,,,,,
+accepter,accept,,,,,,
+tendre,tender,,,,,,
+naître,be born,,,,,,
+sauver,to save,,,,,,
+avancer,moving forward,,,,,,
+traverser,to cross,,,,,,
+souvenir,memory,,,,,,
+couvrir,cover,,,,,,
+gagner,to win,,,,,,
+former,form,,,,,,
+plaire,please,,,,,,
+embrasser,to kiss,,,,,,
+oser,dare,,,,,,
+empêcher,avoid,,,,,,
+refuser,refuse,,,,,,
+décider,decide,,,,,,
+produire,produce,,,,,,
+charger,load,,,,,,
+mêler,mix,,,,,,
+espérer,hope,,,,,,
+cesser,to cease,,,,,,
 ressembler,look like,,,,,,
-chanter,sing,to sing,verb,ʃɑ̃te,intransitive,chanter juste / faux,to sing in tune / off key
-approcher,approach,to move closer,verb,apʀɔʃe,transitive,approcher la table du canapé,to move the table closer to the couch
-prier,pray,to pray,verb,pʀije,intransitive,prier pour qqn,to pray for sb
-échapper,escape,to escape,verb,eʃape,intransitive,échapper à une obligation,to escape from an obligation
-glisser,slip,to slide,verb,ɡlise,intransitive,glisser sur la neige,to slide across the snow
-briller,shine,to shine,verb,bʀije,intransitive,The light shone from the window,
-brûler,burn,to burn,verb,bʀyle,transitive,brûler des feuilles mortes,to burn dead leaves
-placer,to place,to place,verb,plase,transitive,placer qqn à table,to seat sb
-juger,judge,to judge,verb,ʒyʒe,transitive,juger un criminel,to try a criminal
-suffire,suffice,to suffice,verb,syfiʀ,intransitive,Ces provisions me suffiront.,These supplies will be enough for me.
-atteindre,reach,to reach,verb,atɛ̃dʀ,transitive,atteindre le sommet d’une montagne,to reach the top of a mountain
-annoncer,announce,to announce,verb,anɔ̃se,transitive,annoncer son mariage,to announce one’s marriage
-élever,raise,to build,verb,eləve,transitive,élever un mur,to put up a wall
-acheter,buy,to buy,verb,aʃte,transitive,J’ai acheté un cadeau pour mon fils.,I bought my son a gift.
-mener,lead,to lead,verb,məne,transitive,Le taxi les mènera à l’aéroport.,The taxi will take them to the airport.
-préparer,to prepare,to prepare,verb,pʀepare,transitive,préparer ses affaires,to get one’s things ready
-assurer,ensure,to assure,verb,asyʀe,transitive,assurer qqn de son amitié,to assure sb of one’s friendship
-deviner,to guess,to guess,verb,dəvine,transitive,deviner un secret,to guess a secret
-considérer,consider,to consider as,verb,kɔ̃sideʀe,transitive,Ils le considèrent comme leur fils.,They consider him to be their son.
-appartenir,to belong,to belong,verb,apaʀtəniʀ,transitive,Ce livre m’appartient.,This book belongs to me.
-représenter,represent,to represent,verb,ʀəpʀezɑ̃te,transitive,Ce tableau représente un paysage.,This is a painting of a landscape.
-tromper,deceive,to deceive,verb,tʀɔ̃pe,transitive,chercher à tromper qqn,to try to deceive sb
-vendre,sell,to sell,verb,vɑ̃dʀ,transitive,vendre qqch à qqn,to sell sth to sb
-craindre,to fear,to be afraid of,verb,kʀɛ̃dʀ,transitive,craindre qqn,to be afraid of sb
-emporter,carry,to take,verb,ɑ̃pɔʀte,transitive,emporter un sac,to take a bag
-exprimer,Express,to express,verb,ɛkspʀime,transitive,exprimer sa colère,to express one’s anger
-rouler,roll,to roll,verb,ʀule,intransitive,faire rouler une balle,to roll a ball
-posséder,own,to possess,verb,pɔsede,transitive,posséder une voiture,to have a car
-réveiller,wake,to wake up,verb,ʀeveje,transitive,réveiller qqn,to wake sb up
-aider,help,to help,verb,ede,transitive,aider qqn à faire qqch,to help sb do sth
-découvrir,discover,to discover,verb,dekuvʀiʀ,transitive,découvrir la vérité,to discover the truth
-choisir,to choose,to choose,verb,ʃwaziʀ,transitive,choisir un déguisement,to choose a disguise
-prononcer,pronounce,to pronounce,verb,pʀɔnɔ̃se,transitive,prononcer un verdict,to pronounce a verdict
-taire,to hush up,to conceal,verb,tɛʀ,transitive,taire un secret,to conceal a secret
-rêver,dream,to dream,verb,ʀeve,intransitive,"rêver de qqn, de qqch","to dream of sb, of sth"
-appuyer,to press,to lean,verb,apɥije,transitive,appuyer sa tête contre le dossier,to rest one’s head on the seatback
-étendre,to expand,to stretch,verb,etɑ̃dʀ,transitive,étendre ses jambes,to stretch one’s legs
-trembler,to shiver,to tremble,verb,tʀɑ̃ble,intransitive,avoir la main qui tremble,My hand is shaking.
-défendre,defend,to defend,verb,defɑ̃dʀ,transitive,L’armée défend la ville.,The army is defending the city.
-créer,create,to create,verb,kʀee,transitive,créer une entreprise,to set up a company
-maintenir,maintain,to restrain,verb,mɛ̃təniʀ,transitive,maintenir qqn avec force,to forcefully restrain sb
-indiquer,indicate,to indicate,verb,ɛ̃dike,transitive,un panneau qui indique une direction,a sign showing which way to go
-promettre,to promise,to promise,verb,pʀɔmɛtʀ,transitive,J’ai promis de garder le secret.,I promised to keep it secret.
-relever,raise,to stand up,verb,ʀələve,transitive,relever qqn,to make sb stand up
-abandonner,to abandon,abandon,verb,,,,
-ignorer,ignore,to not know,verb,iɲɔʀe,transitive,J’ignore son nom.,I don’t know his name.
-accompagner,to accompany,come along,phrasal verb,,,,
-adresser,address,to address,verb,adʀese,transitive,adresser des vœux / des compliments à qqn,to address greetings / pay compliments to sb
-observer,watch,to observe,verb,ɔpsɛʀve,transitive,observer qqn de loin,to observe sth from a distance
-séparer,to separate,to separate,verb,sepaʀe,transitive,séparer le linge sale du linge propre,to separate the dirty washing from the clean washing
-marier,marry,to marry,verb,maʀje,transitive,le maire qui les a mariés,the mayor who married them
-prévoir,provide,to anticipate,verb,pʀevwaʀ,transitive,prévoir le pire,to expect the worst
-amener,lead,to bring,verb,aməne,transitive,amener son fils à l’école,to take one’s son to school
-obliger,force,to oblige,verb,ɔbliʒe,transitive,Il m’a obligé à le suivre.,He made me follow him.
-éclairer,light,to light,verb,ekleʀe,transitive,éclairer une pièce,to light a room
-poursuivre,to pursue,to pursue,verb,puʀsɥivʀ,transitive,poursuivre un prisonnier en fuite,to pursue an escaped prisoner
-livrer,deliver,to deliver,verb,livʀe,transitive,livrer une pizza,to deliver a pizza
-contenir,contain,to contain,verb,kɔ̃təniʀ,transitive,Ce sac contient des vêtements.,This bag contains clothes.
-fuir,to run away,to run away from,verb,fɥiʀ,transitive,Ils ont fui leur pays.,They fled their country.
-couler,flow,to flow,verb,kule,intransitive,faire couler de l’eau,to run some water
-proposer,to propose,to offer,verb,pʀɔpoze,transitive,proposer un arrangement à l’amiable,to propose an out-of-court settlement
-éprouver,experience,to feel,verb,epʀuve,transitive,éprouver de la colère,to feel angry
-retenir,hold back,to reserve,verb,ʀətəniʀ,transitive,retenir une chambre d’hôtel,to reserve a hotel room
-attacher,to attach,to attach,verb,ataʃe,transitive,attacher ses cheveux,to tie up one’s hair
-voler,steal,to fly,verb,vɔle,intransitive,L’avion vole à haute altitude,The plane is flying at high altitude.
-entraîner,train,to drag,verb,ɑ̃tʀene,transitive,entraîner qqn dans sa chute,to bring sb down with one
-surprendre,surprise,to surprise,verb,syʀpʀɑ̃dʀ,transitive,Sa réaction me surprend.,I’m surprised by his reaction.
-briser,to break,to break,verb,bʀize,transitive,briser un espoir,to dash someone’s hopes
-imaginer,imagine,to imagine,verb,imaʒine,transitive,imaginer sa vie dans dix ans,to imagine one’s life in ten years
-diriger,lead,to lead,verb,diʀiʒe,transitive,diriger une entreprise,to manage a company
-parvenir,reach,to reach,verb,paʀvəniʀ,transitive,parvenir au sommet d’une montagne,to reach the top of a mountain
-pénétrer,enter,to go in,verb,penetʀe,intransitive,pénétrer dans un bâtiment,to go into a building
-remarquer,note,to notice,verb,ʀəmaʀke,transitive,remarquer un détail,to notice a detail
-éviter,to avoid,to avoid,verb,evite,transitive,éviter un danger,to avoid a danger
-établir,establish,ascertain,verb,,,,
-réussir,succeed,to succeed,verb,ʀeysiʀ,intransitive,L’opération a réussi.,The operation was a success.
-pencher,lean,to lean,verb,pɑ̃ʃe,transitive,pencher la tête,to tilt one’s head
-habiter,to live,to inhabit,verb,abite,transitive,Il habite une belle maison.,He lives in a nice house.
-entourer,surround,to circle,verb,ɑ̃tuʀe,transitive,entourer les fautes en rouge,to circle mistakes in red
-déclarer,to declare,to declare,verb,deklaʀe,transitive,déclarer son amour à qqn,to declare one’s love to sb
-étonner,astound,to surprise,verb,etɔne,transitive,Cela m’étonne.,I find that surprising.
-dresser,to draw up,to stand up,verb,dʀese,transitive,dresser la tête,to raise one’s head
-durer,last,to last,verb,dyʀe,intransitive,Ça ne peut plus durer.,This can’t last.
-fixer,to stare,to fix,verb,fikse,transitive,fixer un tableau au mur,to put a painting on the wall
-désirer,to desire,to want,verb,deziʀe,transitive,Il désire vous voir.,He wants to see you.
-arracher,snatch,to pull out/up,verb,aʀaʃe,transitive,arracher les mauvaises herbes,to pull up weeds
-soutenir,support,to hold up,verb,sutəniʀ,transitive,soutenir une personne blessée,to hold up an injured person
-couper,cut,to cut,verb,kupe,transitive,couper du pain,to slice bread
-examiner,look,to examine,verb,ɛɡzamine,transitive,examiner un manuscrit,to examine a manuscript
-douter,doubt,to doubt,verb,dute,intransitive,Je doute de sa sincérité.,I doubt his sincerity.
-retirer,remove,to take away,verb,ʀətiʀe,transitive,Les gendarmes lui ont retiré son permis de conduire.,The gendarmes took away his driver’s license.
-promener,to walk,to walk,verb,pʀɔməne,transitive,promener un chien,to walk a dog
-forcer,force,to force,verb,fɔʀse,transitive,forcer une porte,to force open a door
-revoir,meet again,to see again,verb,ʀəvwaʀ,transitive,revoir un film,to see a movie again
-remplir,fill,to fill,verb,ʀɑ̃pliʀ,transitive,remplir un seau d’eau,to fill a pail with water
-terminer,finish,to finish,verb,tɛʀmine,transitive,terminer un travail,to finish a job
-tenter,try,to tempt,verb,tɑ̃te,transitive,Ce projet me tente.,I find this project tempting.
-remonter,ride up,to go back up,verb,ʀəmɔ̃te,intransitive,Elle est remontée dans sa chambre.,She went back up to her room.
-installer,install,to put,verb,ɛ̃stale,transitive,installer un lit dans une pièce,to put a bed in a room
-soulever,raise,to lift,verb,suləve,transitive,soulever un meuble,to lift a piece of furniture
-allumer,light up,to light,verb,alyme,transitive,allumer une cigarette,to light a cigarette
-imposer,impose,to impose,verb,ɛ̃poze,transitive,imposer ses conditions à qqn,to impose one’s terms on sb
-respirer,breathe,to breathe,verb,ʀɛspiʀe,intransitive,respirer par le nez,to breathe through the nose
-baisser,lower,to lower,verb,bese,transitive,baisser un store,to lower a blind
-souffler,blow,to blow,verb,sufle,intransitive,souffler sur qqch,to blow on sth
-attirer,attract,to attract,verb,atiʀe,transitive,La lumière attire les moustiques.,Light attracts mosquitoes.
-prêter,to lend,to lend,verb,pʀete,transitive,prêter de l’argent à qqn,to lend money to sb
-amuser,amuse,to amuse,verb,amyze,transitive,un jeu qui amuse les enfants,a game children find amusing
-éclater,to burst,to explode,verb,eklate,intransitive,Le pneu a éclaté.,The tire burst.
-réunir,reunite,to bring together,verb,ʀeyniʀ,transitive,réunir des amis,to bring some friends together
-traiter,treat,to treat,verb,tʀete,transitive,bien traiter un animal,to treat an animal well
-engager,to hire,to take on,verb,ɑ̃ɡaʒe,transitive,engager une secrétaire,to employ a secretary
-traîner,drag,to drag,verb,tʀene,transitive,des prisonniers qui traînent leurs chaînes,prisoners dragging their chains
-employer,to employ,to use,verb,ɑ̃plwaje,transitive,employer la force,to use force
-marquer,to mark,to mark,verb,maʀke,transitive,marquer un paragraphe d’un trait de crayon,to mark a paragraph in pencil
-prouver,to prove,to prove,verb,pʀuve,transitive,prouver l’innocence de qqn,to prove sb’s innocence
-importer,import,to import,verb,ɛ̃pɔʀte,transitive,importer des fruits d’Afrique,to import fruit from Africa
-exiger,require,to demand,verb,ɛɡziʒe,transitive,Il exige ce travail pour demain.,He insists on the work being done by tomorrow.
-reposer,rest,to stand,verb,ʀəpoze,intransitive,reposer sur le sol,to stand on the floor
-danser,dance,to dance,verb,dɑ̃se,intransitive,apprendre à danser le rock,to learn to dance the jive
-saluer,greet,to greet,verb,salɥe,transitive,Je l’ai salué avant de partir.,I said goodbye to her before I left.
-accorder,grant,hang together,phrasal verb,,,,
-achever,finish,to complete,verb,aʃəve,transitive,achever un travail,to finish a job
-avouer,confess,to admit,verb,avwe,transitive,Il a enfin avoué son crime.,He ended up confessing his crime.
-distinguer,to distinguish,to distinguish,verb,distɛ̃ɡe,transitive,On distingue qqch à l’horizon.,You can make something out on the horizon.
-emmener,bring,to take,verb,ɑ̃məne,transitive,emmener les enfants à l’école,to take the children to school
-agiter,shake,to shake,verb,aʒite,transitive,Agiter le flacon avant de l’ouvrir.,Shake the bottle before opening.
-hésiter,hesitate,to hesitate,verb,ezite,intransitive,hésiter entre deux dates,to hesitate between two dates
-sonner,ring,to ring,verb,sɔne,intransitive,Le téléphone sonne.,The phone’s ringing.
-composer,compose,to make,verb,kɔ̃poze,transitive,composer un numéro de téléphone,to dial a number
-enlever,to take off,to remove,verb,ɑ̃ləve,transitive,enlever son pull,to take off one’s sweater
-rejoindre,rejoin,to join,verb,ʀəʒwɛ̃dʀ,transitive,rejoindre ses amis,to join one’s friends
-ramener,bring back,to take back,verb,ʀaməne,transitive,ramener qqn chez lui,to take sb back home
-étudier,to study,to study,verb,etydje,transitive,étudier l’anglais,to study English
-partager,share,to share,verb,paʀtaʒe,transitive,partager un sandwich en deux,to divide a sandwich in two
-chasser,hunt,to hunt,verb,ʃase,transitive,chasser le sanglier,to hunt wild boar
-interrompre,interrupt,to interrupt,verb,ɛ̃teʀɔ̃pʀ,transitive,interrompre une conversation,to interrupt a conversation
-éloigner,remove,to move away,verb,elwaɲe,transitive,éloigner qqn de qqch,to move sth away from sb
-réduire,reduce,to reduce,verb,ʀedɥiʀ,transitive,réduire un prix de moitié,to reduce a price by half
-éteindre,switch off,blow out,verb,,,,
-recommencer,restart,to start again,verb,ʀəkɔmɑ̃se,transitive,Il a dû tout recommencer.,He had to do it all again.
-sauter,jump,to jump,verb,sote,intransitive,sauter par-dessus un mur,to jump over a wall
-plaindre,complain,to feel sorry for,verb,plɛ̃dʀ,transitive,,
-préférer,prefer,to prefer,verb,pʀefeʀe,transitive,Je préfère les desserts.,I prefer desserts.
-révéler,reveal,to reveal,verb,ʀevele,transitive,révéler qqch à qqn,to reveal sth to sb
-subir,undergo,to suffer,verb,sybiʀ,transitive,subir un échec,to suffer a failure
-rapporter,report,to bring back,verb,ʀapɔʀte,transitive,rapporter un livre à la bibliothèque,to take a book back to the library
-coûter,cost,to cost,verb,kute,intransitive,La place coûte dix euros.,The ticket costs ten euros.
-réfléchir,reflect,to think,verb,ʀefleʃiʀ,intransitive,Je vais réfléchir.,I’ll think about it.
-remercier,thank,to thank,verb,ʀəmɛʀsje,transitive,Je te remercie pour ta lettre.,Thanks for your letter.
-déposer,deposit,to put,verb,depoze,transitive,déposer un livre sur la table,to put a book on the table
-fumer,to smoke,to smoke,verb,fyme,transitive,Elle fume deux cigarettes par jour.,She smokes two cigarettes per day.
-affirmer,to affirm,to affirm,verb,afiʀme,transitive,Il affirme que ce n’est pas lui.,He says it isn’t him.
-convenir,suit,to be right/appropriate,verb,kɔ̃vniʀ,intransitive,trouver le mot qui convient,to find the right word
-vêtir,dress,to dress,verb,vetiʀ,transitive,vêtir son fils de vêtements chauds,to dress one’s son in warm clothes
-accomplir,accomplish,accomplish,verb,,,,
-résoudre,solve,to resolve,verb,ʀezudʀ,transitive,résoudre un problème,to solve a problem
-plonger,plunge,to dive,verb,plɔ̃ʒe,intransitive,plonger du troisième plongeoir,to dive from the third diving board
-détruire,destroy,to destroy,verb,detʀɥiʀ,transitive,détruire une maison,to destroy a house
-intéresser,to interest,to interest,verb,ɛ̃teʀese,transitive,La candidature de cet homme l’intéresse.,This man’s application is of interest to him.
-disposer,dispose,to place,verb,dispoze,transitive,disposer les assiettes sur la table,to place plates on the table
-lisser,smooth,to smooth down,verb,lise,transitive,lisser un mur,to smooth down a wall
-verser,pay,to pour,verb,vɛʀse,transitive,verser à boire à qqn,to pour sb a drink
-obéir,to obey,to obey,verb,ɔbeiʀ,transitive,obéir à qqn,to obey sb
-lutter,Wrestle,to fight,verb,lyte,intransitive,lutter contre l’ennemi,to fight against the enemy
-prétendre,claim,to claim,verb,pʀetɑ̃dʀ,transitive,prétendre avoir raison,to claim to be right
-construire,to build,to build,verb,kɔ̃stʀɥiʀ,transitive,construire une maison,to build a house
-soumettre,submit,to submit,verb,sumɛtʀ,transitive,soumettre un projet,to submit a project
-peser,weigh,to weigh,verb,pəze,transitive,peser des légumes,to weigh vegetables
-troubler,to disrupt,to blur,verb,tʀuble,transitive,troubler l’eau d’une rivière,to cloud the water of a river
-répandre,spread,to spill,verb,ʀepɑ̃dʀ,transitive,répandre de l’eau par terre,to spill water on the ground
-résister,resist,to resist,verb,ʀeziste,transitive,L’arbre a résisté à la tempête.,The tree resisted the storm
-protéger,protect,to protect,verb,pʀɔteʒe,transitive,protéger l’environnement,to protect the environment
-enfermer,lock,to confine,verb,ɑ̃fɛʀme,transitive,enfermer qqn dans une pièce,to confine sb to a room
-creuser,dig,to dig,verb,kʀøze,transitive,creuser un trou,to dig a hole
-grandir,grow,to grow,verb,ɡʀɑ̃diʀ,intransitive,un enfant qui grandit,a growing child
-enfoncer,to press in,to push in,verb,ɑ̃fɔ̃se,transitive,enfoncer un clou dans une planche,to drive a nail into a plank
-envelopper,to wrap up,to wrap,verb,ɑ̃vlɔpe,transitive,envelopper qqch dans du papier,to wrap sth in paper
-prévenir,prevent,to warn,verb,pʀevniʀ,transitive,prévenir les pompiers,to call the fire service
-inspirer,Inspire,to inspire,verb,ɛ̃spiʀe,transitive,inspirer confiance à qqn,to inspire sb with confidence
-ramasser,to pick up,to pick up,verb,ʀamɑse,transitive,ramasser des coquillages,to gather seashells
-endormir,asleep,to send to sleep,verb,ɑ̃dɔʀmiʀ,transitive,endormir un enfant,to send a child to sleep
-inventer,invent,to invent,verb,ɛ̃vɑ̃te,transitive,Il a inventé une nouvelle machine.,He invented a new machine.
-presser,press,to squeeze,verb,pʀese,transitive,presser une orange,to squeeze an orange
-confier,entrust,to confide,verb,kɔ̃fje,transitive,Il m’a confié un secret.,He entrusted me with a secret.
-effacer,to erase,to erase,verb,efase,transitive,effacer des traces,to remove traces
-reculer,retreat,to push back,verb,ʀəkyle,transitive,reculer sa chaise,to push back one’s chair
-user,wear,to wear out,verb,yze,transitive,user ses vêtements,to wear out one’s clothes
-nourrir,feed,to feed,verb,nuʀiʀ,transitive,nourrir un bébé,to feed a baby
-remplacer,replace,to replace,verb,ʀɑ̃plase,transitive,remplacer sa vieille voiture par une neuve,to replace one’s old car with a new one
-souhaiter,wish,to want,verb,swete,transitive,Je souhaite son bonheur.,I want her to be happy.
-signer,sign,to sign,verb,siɲe,transitive,signer un chèque,to sign a check
-interroger,question,to question,verb,ɛ̃teʀɔʒe,transitive,interroger un élève,to ask a student some questions
-dominer,dominate,to dominate,verb,dɔmine,transitive,dominer sa peur,to control one’s fear
-commander,order,to command,verb,kɔmɑ̃de,transitive,commander une équipe,to lead a team
-supposer,assume,to suppose,verb,sypoze,transitive,Je suppose qu’il est sorti.,I suppose he went out.
-dépasser,exceed,to overtake,verb,depase,transitive,dépasser une voiture,to overtake a car
-accuser,to accuse,to accuse,verb,akyze,transitive,accuser qqn de vol,to accuse sb of theft
-habiller,dress,to dress,verb,abije,transitive,habiller un enfant,to dress a child
-condamner,condemn,to sentence,verb,kɔ̃dane,transitive,condamner qqn à deux ans de prison,to sentence sb to two years in prison
-menacer,threaten,to threaten,verb,mənase,transitive,menacer qqn avec un couteau,to threaten sb with a knife
-écraser,to crush,to crush,verb,ekʀaze,transitive,écraser un insecte,to squash an insect
-céder,yield,to give,verb,sede,transitive,céder sa place à qqn,to give up one’s seat to sb
-écarter,spread,to move away,verb,ekaʀte,transitive,écarter les bras,to stretch out one’s arms
-réclamer,claim,to demand,verb,ʀeklame,transitive,Il réclame une facture.,He’s demanding a receipt.
-dessiner,draw,to draw,verb,desine,transitive,Il a dessiné une maison.,He drew a house.
-conclure,conclude,to conclude,verb,kɔ̃klyʀ,transitive,conclure un discours,to conclude a speech
-lier,bind,to tie up,verb,lje,transitive,lier des branchages avec une ficelle,to tie up branches with string
-admettre,admit,to admit,verb,admɛtʀ,transitive,J’admets qu’il a raison.,I admit he’s right.
-attaquer,attack,to attack,verb,atake,transitive,attaquer un pays,to attack a country
-respecter,respect,to respect,verb,ʀɛspɛkte,transitive,respecter ses professeurs,to respect one’s teachers
-pendre,hang,to hang,verb,pɑ̃dʀ,transitive,pendre son manteau au portemanteau,to hang one’s coat on the coat rack
-supporter,support,to bear,verb,sypɔʀte,transitive,supporter une douleur,to bear a pain
-figurer,figure,to represent,verb,fiɡyʀe,transitive,Son nom figure dans la liste.,His name is on the list.
-profiter,enjoy,to benefit,verb,pʀɔfite,transitive,profiter de l’occasion pour faire qqch,to make the most of the opportunity to do sth
-accrocher,to hook,buttonhole,verb,,,,
-calmer,calm,to calm,verb,kalme,transitive,calmer une douleur,to soothe a pain
-satisfaire,satisfied,to satisfy,verb,satisfɛʀ,transitive,Sa situation le satisfait.,He’s satisfied with his social status.
-valoir,to be worth,to be worth,verb,valwaʀ,intransitive,Ce tableau vaut 5000 euros.,"This painting is worth 5,000 euros."
-signifier,mean,to mean,verb,siɲifje,transitive,Que signifie cette expression ?,What does this expression mean?
-inquiéter,worry,to worry,verb,ɛ̃kiete,transitive,Cette nouvelle l’inquiète beaucoup.,She’s very worried about the news.
-assister,assist,to assist,verb,asiste,transitive,assister qqn dans ses fonctions,to assist sb in their job
-inviter,invite,to invite,verb,ɛ̃vite,transitive,Elle l’a invité à sa soirée.,She invited him to her party.
-déchirer,tear,to tear up,verb,deʃiʀe,transitive,déchirer une lettre,to tear up a letter
-risquer,risk,to risk,verb,ʀiske,transitive,risquer sa vie,to risk one’s life
-parcourir,Browse,to travel across,verb,paʀkuʀiʀ,transitive,parcourir le monde,to travel around the world
-rejeter,to reject,to blame sb for sth,verb,ʀəʒəte,transitive,Il rejette la faute sur son frère.,He blames his brother.
-renoncer,renounce,to renounce,verb,ʀənɔ̃se,transitive,renoncer à ses rêves,to give up one’s dreams
-veiller,watch,to stay awake,verb,veje,intransitive,veiller toute la nuit,to stay awake all night
-transformer,transform,to transform,verb,tʀɑ̃sfɔʀme,transitive,transformer un appartement,to transform an apartment
-tracer,draw,to draw,verb,tʀase,transitive,tracer un trait,to draw a line
-contenter,please,to make happy,verb,kɔ̃tɑ̃te,transitive,,
-mériter,merit,to deserve,verb,meʀite,transitive,mériter une récompense / sanction,to deserve a reward / a punishment
-précipiter,precipitate,to throw,verb,pʀesipite,transitive,précipiter une voiture dans un ravin,to push a car into a ravine
-rompre,to break up,to break,verb,ʀɔ̃pʀ,transitive,rompre une corde,to break a rope
-caresser,caress,to caress,verb,kaʀese,transitive,She caressed the horse’s neck.,
-étouffer,to choke,to suffocate,verb,etufe,transitive,étouffer qqn avec un oreiller,to smother sb with a pillow
-animer,animate,to organize,verb,anime,transitive,animer un débat,to lead a discussion
-casser,break,to break,verb,kɑse,transitive,casser ses lunettes,to break one’s glasses
-fonder,found,to found,verb,fɔ̃de,transitive,fonder une entreprise,to set up a company
-franchir,cross,to climb over,verb,fʀɑ̃ʃiʀ,transitive,Ils ont franchi le mur.,They climbed over the wall.
-abattre,tear down,bring down,verb,,,,
-discuter,discuss,to discuss,verb,diskyte,intransitive,discuter de qqch avec qqn,to discuss sth with sb
-fatiguer,tired,to tire,verb,fatiɡe,transitive,Ce travail l’a fatigué.,The job tired him out.
-consentir,consent,to consent to,verb,kɔ̃sɑ̃tiʀ,transitive,consentir un prêt,to grant a loan
-regretter,to regret,to miss,verb,ʀəɡʀete,transitive,regretter sa jeunesse,to miss one’s youth
-joindre,join,to join,verb,ʒwɛ̃dʀ,transitive,joindre les mains,to join hands
-vaincre,overcome,to overcome,verb,vɛ̃kʀ,transitive,vaincre l’ennemi,to defeat the enemy
-consulter,to consult,to consult,verb,kɔ̃sylte,transitive,consulter un dictionnaire,to consult a dictionary
-haïr,hate,to hate,verb,ˈaiʀ,transitive,Il hait la violence.,He hates violence.
-repousser,repel,to push away,verb,ʀəpuse,transitive,repousser qqn,to push sb away
-exécuter,perform,to execute,verb,ɛɡzekyte,transitive,exécuter un travail,to do a job
-exposer,exhibit,to display,verb,ɛkspoze,transitive,exposer des marchandises,to display goods
-voyager,travel,to travel,verb,vwajaʒe,intransitive,voyager de nuit,to travel by night
-renverser,overthrow,to knock over,verb,ʀɑ̃vɛʀse,transitive,renverser un verre,to knock over a glass
-rassurer,to reassure,to reassure,verb,ʀasyʀe,transitive,"The woman was worried about the dangers of taking aspirins, but her doctor reassured her.",
-retomber,drop,to fall back down,verb,ʀətɔ̃be,intransitive,La balle est retombée derrière la ligne.,The ball fell behind the line.
-décrire,to describe,to describe,verb,dekʀiʀ,transitive,décrire qqn,to describe sb
-mentir,lie,to lie,verb,mɑ̃tiʀ,intransitive,mentir à qqn,to lie to sb
-armer,arm,to arm,verb,aʀme,transitive,armer un pays,to arm a country
-étaler,spread,array,verb,,,,
-essuyer,wipe,to dry,verb,esɥije,transitive,Il essuie la vaisselle.,He’s drying the dishes.
-précéder,precede,to precede,verb,pʀesede,transitive,les jours qui précèdent un événement,the days leading up to an event
+chanter,sing,,,,,,
+approcher,approach,,,,,,
+prier,pray,,,,,,
+échapper,escape,,,,,,
+glisser,slip,,,,,,
+briller,shine,,,,,,
+brûler,burn,,,,,,
+placer,to place,,,,,,
+juger,judge,,,,,,
+suffire,suffice,,,,,,
+atteindre,reach,,,,,,
+annoncer,announce,,,,,,
+élever,raise,,,,,,
+acheter,buy,,,,,,
+mener,lead,,,,,,
+préparer,to prepare,,,,,,
+assurer,ensure,,,,,,
+deviner,to guess,,,,,,
+considérer,consider,,,,,,
+appartenir,to belong,,,,,,
+représenter,represent,,,,,,
+tromper,deceive,,,,,,
+vendre,sell,,,,,,
+craindre,to fear,,,,,,
+emporter,carry,,,,,,
+exprimer,Express,,,,,,
+rouler,roll,,,,,,
+posséder,own,,,,,,
+réveiller,wake,,,,,,
+aider,help,,,,,,
+découvrir,discover,,,,,,
+choisir,to choose,,,,,,
+prononcer,pronounce,,,,,,
+taire,to hush up,,,,,,
+rêver,dream,,,,,,
+appuyer,to press,,,,,,
+étendre,to expand,,,,,,
+trembler,to shiver,,,,,,
+défendre,defend,,,,,,
+créer,create,,,,,,
+maintenir,maintain,,,,,,
+indiquer,indicate,,,,,,
+promettre,to promise,,,,,,
+relever,raise,,,,,,
+abandonner,to abandon,,,,,,
+ignorer,ignore,,,,,,
+accompagner,to accompany,,,,,,
+adresser,address,,,,,,
+observer,watch,,,,,,
+séparer,to separate,,,,,,
+marier,marry,,,,,,
+prévoir,provide,,,,,,
+amener,lead,,,,,,
+obliger,force,,,,,,
+éclairer,light,,,,,,
+poursuivre,to pursue,,,,,,
+livrer,deliver,,,,,,
+contenir,contain,,,,,,
+fuir,to run away,,,,,,
+couler,flow,,,,,,
+proposer,to propose,,,,,,
+éprouver,experience,,,,,,
+retenir,hold back,,,,,,
+attacher,to attach,,,,,,
+voler,steal,,,,,,
+entraîner,train,,,,,,
+surprendre,surprise,,,,,,
+briser,to break,,,,,,
+imaginer,imagine,,,,,,
+diriger,lead,,,,,,
+parvenir,reach,,,,,,
+pénétrer,enter,,,,,,
+remarquer,note,,,,,,
+éviter,to avoid,,,,,,
+établir,establish,,,,,,
+réussir,succeed,,,,,,
+pencher,lean,,,,,,
+habiter,to live,,,,,,
+entourer,surround,,,,,,
+déclarer,to declare,,,,,,
+étonner,astound,,,,,,
+dresser,to draw up,,,,,,
+durer,last,,,,,,
+fixer,to stare,,,,,,
+désirer,to desire,,,,,,
+arracher,snatch,,,,,,
+soutenir,support,,,,,,
+couper,cut,,,,,,
+examiner,look,,,,,,
+douter,doubt,,,,,,
+retirer,remove,,,,,,
+promener,to walk,,,,,,
+forcer,force,,,,,,
+revoir,meet again,,,,,,
+remplir,fill,,,,,,
+terminer,finish,,,,,,
+tenter,try,,,,,,
+remonter,ride up,,,,,,
+installer,install,,,,,,
+soulever,raise,,,,,,
+allumer,light up,,,,,,
+imposer,impose,,,,,,
+respirer,breathe,,,,,,
+baisser,lower,,,,,,
+souffler,blow,,,,,,
+attirer,attract,,,,,,
+prêter,to lend,,,,,,
+amuser,amuse,,,,,,
+éclater,to burst,,,,,,
+réunir,reunite,,,,,,
+traiter,treat,,,,,,
+engager,to hire,,,,,,
+traîner,drag,,,,,,
+employer,to employ,,,,,,
+marquer,to mark,,,,,,
+prouver,to prove,,,,,,
+importer,import,,,,,,
+exiger,require,,,,,,
+reposer,rest,,,,,,
+danser,dance,,,,,,
+saluer,greet,,,,,,
+accorder,grant,,,,,,
+achever,finish,,,,,,
+avouer,confess,,,,,,
+distinguer,to distinguish,,,,,,
+emmener,bring,,,,,,
+agiter,shake,,,,,,
+hésiter,hesitate,,,,,,
+sonner,ring,,,,,,
+composer,compose,,,,,,
+enlever,to take off,,,,,,
+rejoindre,rejoin,,,,,,
+ramener,bring back,,,,,,
+étudier,to study,,,,,,
+partager,share,,,,,,
+chasser,hunt,,,,,,
+interrompre,interrupt,,,,,,
+éloigner,remove,,,,,,
+réduire,reduce,,,,,,
+éteindre,switch off,,,,,,
+recommencer,restart,,,,,,
+sauter,jump,,,,,,
+plaindre,complain,,,,,,
+préférer,prefer,,,,,,
+révéler,reveal,,,,,,
+subir,undergo,,,,,,
+rapporter,report,,,,,,
+coûter,cost,,,,,,
+réfléchir,reflect,,,,,,
+remercier,thank,,,,,,
+déposer,deposit,,,,,,
+fumer,to smoke,,,,,,
+affirmer,to affirm,,,,,,
+convenir,suit,,,,,,
+vêtir,dress,,,,,,
+accomplir,accomplish,,,,,,
+résoudre,solve,,,,,,
+plonger,plunge,,,,,,
+détruire,destroy,,,,,,
+intéresser,to interest,,,,,,
+disposer,dispose,,,,,,
+lisser,smooth,,,,,,
+verser,pay,,,,,,
+obéir,to obey,,,,,,
+lutter,Wrestle,,,,,,
+prétendre,claim,,,,,,
+construire,to build,,,,,,
+soumettre,submit,,,,,,
+peser,weigh,,,,,,
+troubler,to disrupt,,,,,,
+répandre,spread,,,,,,
+résister,resist,,,,,,
+protéger,protect,,,,,,
+enfermer,lock,,,,,,
+creuser,dig,,,,,,
+grandir,grow,,,,,,
+enfoncer,to press in,,,,,,
+envelopper,to wrap up,,,,,,
+prévenir,prevent,,,,,,
+inspirer,Inspire,,,,,,
+ramasser,to pick up,,,,,,
+endormir,asleep,,,,,,
+inventer,invent,,,,,,
+presser,press,,,,,,
+confier,entrust,,,,,,
+effacer,to erase,,,,,,
+reculer,retreat,,,,,,
+user,wear,,,,,,
+nourrir,feed,,,,,,
+remplacer,replace,,,,,,
+souhaiter,wish,,,,,,
+signer,sign,,,,,,
+interroger,question,,,,,,
+dominer,dominate,,,,,,
+commander,order,,,,,,
+supposer,assume,,,,,,
+dépasser,exceed,,,,,,
+accuser,to accuse,,,,,,
+habiller,dress,,,,,,
+condamner,condemn,,,,,,
+menacer,threaten,,,,,,
+écraser,to crush,,,,,,
+céder,yield,,,,,,
+écarter,spread,,,,,,
+réclamer,claim,,,,,,
+dessiner,draw,,,,,,
+conclure,conclude,,,,,,
+lier,bind,,,,,,
+admettre,admit,,,,,,
+attaquer,attack,,,,,,
+respecter,respect,,,,,,
+pendre,hang,,,,,,
+supporter,support,,,,,,
+figurer,figure,,,,,,
+profiter,enjoy,,,,,,
+accrocher,to hook,,,,,,
+calmer,calm,,,,,,
+satisfaire,satisfied,,,,,,
+valoir,to be worth,,,,,,
+signifier,mean,,,,,,
+inquiéter,worry,,,,,,
+assister,assist,,,,,,
+inviter,invite,,,,,,
+déchirer,tear,,,,,,
+risquer,risk,,,,,,
+parcourir,Browse,,,,,,
+rejeter,to reject,,,,,,
+renoncer,renounce,,,,,,
+veiller,watch,,,,,,
+transformer,transform,,,,,,
+tracer,draw,,,,,,
+contenter,please,,,,,,
+mériter,merit,,,,,,
+précipiter,precipitate,,,,,,
+rompre,to break up,,,,,,
+caresser,caress,,,,,,
+étouffer,to choke,,,,,,
+animer,animate,,,,,,
+casser,break,,,,,,
+fonder,found,,,,,,
+franchir,cross,,,,,,
+abattre,tear down,,,,,,
+discuter,discuss,,,,,,
+fatiguer,tired,,,,,,
+consentir,consent,,,,,,
+regretter,to regret,,,,,,
+joindre,join,,,,,,
+vaincre,overcome,,,,,,
+consulter,to consult,,,,,,
+haïr,hate,,,,,,
+repousser,repel,,,,,,
+exécuter,perform,,,,,,
+exposer,exhibit,,,,,,
+voyager,travel,,,,,,
+renverser,overthrow,,,,,,
+rassurer,to reassure,,,,,,
+retomber,drop,,,,,,
+décrire,to describe,,,,,,
+mentir,lie,,,,,,
+armer,arm,,,,,,
+étaler,spread,,,,,,
+essuyer,wipe,,,,,,
+précéder,precede,,,,,,
+désigner,designate,,,,,,
+détacher,detach,,,,,,
+recueillir,collect,,,,,,
+croiser,cross,,,,,,
+entretenir,maintain,,,,,,
+surveiller,monitor,,,,,,
+réserver,Reserve,,,,,,
+confondre,confuse,,,,,,
+dégager,free,,,,,,
